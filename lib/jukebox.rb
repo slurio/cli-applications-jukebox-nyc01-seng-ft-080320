@@ -30,7 +30,7 @@ def play(file)
   if output == "Invalid input, please try again"
     puts output
   else
-    puts output
+    puts "Playing #{output}"
   end
 end
 
